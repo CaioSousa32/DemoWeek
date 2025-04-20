@@ -1,50 +1,36 @@
-# Welcome to your Expo app 👋
+# Demo Week
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+## ***A solução***
 
-## Get started
+</center>
 
-1. Install dependencies
+Somos estudantes do IFPE Campus Igarassu e estamos desenvolvendo um aplicativo para a Demo Week. Nosso objetivo é divulgar e tirar dúvidas em relação ao evento e a programação. O aplicativo é destinado a todos, alunos do IFPE ou não. Reuniremos em um só lugar todas as informações sobre o evento.
 
-   ```bash
-   npm install
-   ```
+----------
 
-2. Start the app
+<center>
 
-   ```bash
-    npx expo start
-   ```
+### 🛠 Tecnologias
 
-In the output, you'll find options to open the app in a
+As seguintes ferramentas foram usadas na construção do projeto:
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+- [Expo](<https://expo.io/>)
+- [React Native](<https://reactnative.dev/>)
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+### Como executar?
 
-## Get a fresh project
+# Clone este repositório
+````
+git clone https://github.com/CaioSousa32/DemoWeek.git
+````
 
-When you're ready, run:
+# Acesse a pasta do projeto no terminal/cmd
+````
+cd DemoWeek
+````
 
-```bash
-npm run reset-project
-```
+# Aprenda a executar projetos React Native com o Expo
+<a href="https://docs.expo.dev/guides/overview">Guias.</a><br>
+<a href="https://docs.expo.dev/faq">Perguntas frequentes.</a><br>
+<a href="https://docs.expo.dev/get-started/set-up-your-environment/?platform=android&device=simulated&mode=development-build&buildEnv=local">Como executar, passo a passo.</a><br>
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
