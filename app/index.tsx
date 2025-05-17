@@ -48,10 +48,10 @@ const styles = StyleSheet.create({
   },
   footer: {
     alignItems: 'center',
-    marginBottom: height * 0.12,
+    marginBottom: height * 0.15,
   },
   logoLab: {
-    width: 200,
+    width: 160,
     height: 80,
   },
   logoImage: {
