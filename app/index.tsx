@@ -42,13 +42,13 @@ const styles = StyleSheet.create({
   content: {
     flex: 1,
     justifyContent: 'center',
-    marginTop: height * 0.15,
+    marginTop: height * 0.10,
     alignItems: 'center',
   
   },
   footer: {
     alignItems: 'center',
-    marginBottom: height * 0.15,
+    marginBottom: height * 0.10,
   },
   logoLab: {
     width: 160,
